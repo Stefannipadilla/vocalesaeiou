@@ -1,0 +1,131 @@
+<?xml version="1.0" encoding="utf-8"?>
+<lim version="5.6.3">
+    <config>
+          <recursos>$C:\Users\ESTUDIANTE\OneDrive\Documentos\Nueva carpeta\edilim563\stefanni\</recursos>
+        <idioma>0</idioma>
+        <licencia></licencia>
+          <corfondo>FAF9C7</corfondo>
+        <corbanda>EEEA4D</corbanda>
+        <cornavega>EEEA4D</cornavega>
+        <cormensaxes>000000</cormensaxes>
+          <cortexto>000000</cortexto>
+          <titulo>LAS VOCALES</titulo>
+          <subtitulo>ACTIVIDADES</subtitulo>
+        <logo>..\stefanni\portada.png</logo>
+          <informe>1</informe>
+          <botonson>1</botonson>
+          <maximizar>1</maximizar>
+        <desordenar>0</desordenar>
+        <correcto son="\" modo="1" >CORRECTO</correcto>
+        <incorrecto son="\" modo="1" >INCORRECTO</incorrecto>
+    </config>
+    <libro>
+        <paxina id="1" >
+              <tipo>2</tipo>
+              <imaxe posx="0" posy="0">..\stefanni\portada.png</imaxe>
+        </paxina>
+        <paxina id="2" >
+              <tipo>2</tipo>
+              <imaxe posx="0" posy="0">..\stefanni\vocal a.png</imaxe>
+        </paxina>
+        <paxina id="3" >
+              <tipo>2</tipo>
+              <imaxe posx="0" posy="0">..\stefanni\vocal e.png</imaxe>
+        </paxina>
+        <paxina id="4" >
+              <tipo>2</tipo>
+              <imaxe posx="0" posy="0">..\stefanni\vocal i.png</imaxe>
+        </paxina>
+        <paxina id="5" >
+              <tipo>2</tipo>
+              <imaxe posx="0" posy="0">..\stefanni\vocal o.png</imaxe>
+        </paxina>
+        <paxina id="6" >
+              <tipo>2</tipo>
+              <imaxe posx="0" posy="0">..\stefanni\vocal u.png</imaxe>
+        </paxina>
+        <paxina id="7" >
+              <tipo>2</tipo>
+              <imaxe posx="0" posy="0">..\stefanni\actividades.png</imaxe>
+        </paxina>
+        <paxina id="8" >
+              <tipo>20</tipo>
+              <cabeceira>Arrastra las palabras a las vocales correspondiente.</cabeceira>
+              <imaxe>..\stefanni\vocales M.png</imaxe>
+              <modo>3</modo>
+              <etiqueta posx="62" posy="24">araña</etiqueta>
+              <etiqueta posx="62" posy="91">elefante</etiqueta>
+              <etiqueta posx="60" posy="158">iguana</etiqueta>
+              <etiqueta posx="58" posy="225">oso</etiqueta>
+              <etiqueta posx="60" posy="296">unicornio</etiqueta>
+        </paxina>
+        <paxina id="9" >
+              <tipo>17</tipo>
+              <cabeceira>Encuentra las parejas</cabeceira>
+              <parellas>..\stefanni\abeja.png</parellas>
+              <parellas>..\stefanni\elefante.png</parellas>
+              <parellas>..\stefanni\iglesia.png</parellas>
+              <parellas>..\stefanni\oso.png</parellas>
+              <parellas>..\stefanni\uva.png</parellas>
+              <cfondo>FAF9C7</cfondo>
+              <ctapa>000000</ctapa>
+              <tempo>30</tempo>
+        </paxina>
+        <paxina id="10" >
+              <tipo>4</tipo>
+              <cabeceira>Encuentras las palabras según las imagenes</cabeceira>
+              <modo>2</modo>
+              <sopa enun="..\stefanni\abeja.png">abeja</sopa>
+              <sopa enun="..\stefanni\elefante.png">elefante</sopa>
+              <sopa enun="..\stefanni\iglesia.png">iglesia</sopa>
+              <sopa enun="..\stefanni\oso.png">oso</sopa>
+              <sopa enun="..\stefanni\uva.png">uva</sopa>
+              <enunciado>0</enunciado>
+              <colorea>0</colorea>
+              <cadro>0</cadro>
+        </paxina>
+        <paxina id="11" >
+              <tipo>11</tipo>
+              <cabeceira>Escribe la vocal con la que empiezan las imágenes.</cabeceira>
+              <modo>1</modo>
+              <cousa nome="a">..\stefanni\abeja.png</cousa>
+              <cousa nome="e">..\stefanni\elefante.png</cousa>
+              <cousa nome="i">..\stefanni\iglesia.png</cousa>
+              <cousa nome="o">..\stefanni\oso.png</cousa>
+              <cousa nome="u">..\stefanni\uva.png</cousa>
+        </paxina>
+        <paxina id="12" >
+              <tipo>8</tipo>
+              <cabeceira>Encuentra las vocales que hace falta en la palabra.</cabeceira>
+              <frase texto="EL_F_NTE" son="\">EA</frase>
+              <frase texto="C_M_NO" son="\">AI</frase>
+              <frase texto="B_SQU_" son="\">OE</frase>
+        </paxina>
+        <paxina id="13" >
+              <tipo>3</tipo>
+              <cabeceira>Arma el rompezabezas.</cabeceira>
+              <imaxe>..\stefanni\vocales M.png</imaxe>
+              <filas>5</filas>
+              <columnas>3</columnas>
+              <reixa>1</reixa>
+            <forma>0</forma>
+        </paxina>
+        <paxina id="14" >
+              <tipo>32</tipo>
+              <cabeceira>Sigue la serie de las vocales.</cabeceira>
+              <modo></modo>
+              <etiqueta>..\stefanni\am.png</etiqueta>
+              <etiqueta>..\stefanni\em.png</etiqueta>
+              <etiqueta>..\stefanni\im.png</etiqueta>
+              <etiqueta>..\stefanni\om.png</etiqueta>
+        </paxina>
+        <paxina id="15" >
+              <tipo>34</tipo>
+              <cabeceira>Escoge la vocal mayúscula con la vocal minúscula correspondiente.</cabeceira>
+              <imaxe>..\stefanni\vocales M.png</imaxe>
+              <forma>0</forma>
+              <modo>2</modo>
+              <completa>aeiou</completa>
+        </paxina>
+    </libro>
+</lim>
